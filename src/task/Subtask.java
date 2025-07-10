@@ -1,4 +1,4 @@
-package Class;
+package task;
 
 public class Subtask extends Task {
     private final int epicId;

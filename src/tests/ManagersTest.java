@@ -1,4 +1,4 @@
-package Tests;
+package tests;
 
 import Class.Managers;
 import Class.TaskManager;

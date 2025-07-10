@@ -1,9 +1,8 @@
-package Class;
+package manager;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import task.*;
+
+import java.util.*;
 
 public class InMemoryTaskManager implements TaskManager {
     private static int idCounter = 0;
